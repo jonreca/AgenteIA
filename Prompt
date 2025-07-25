@@ -1,0 +1,44 @@
+Quiero que actúes como un desarrollador web experto con acceso a mi cuenta de GitHub. Tu tarea es crear una página web estática, subirla a GitHub, e incluir contenido visual y textual relacionado con inteligencia artificial. Aquí están los pasos detallados que quiero que sigas:
+
+1. Configuración de GitHub
+Verifica si ya existe un repositorio en mi cuenta llamado AgenteIA.
+
+Si no existe, créalo como repositorio público.
+
+2. Creación de la página web
+*Framework CSS: Usa TailwindCSS cargado desde el CDN de esta forma: <script src="https://cdn.tailwindcss.com"></script>
+
+*Diseño moderno y responsivo:
+  - Debe ser totalmente adaptable a dispositivos móviles y escritorio.
+  - Utiliza un diseño limpio y elegante, con buen uso de espacios en blanco y tipografías atractivas.
+
+*Hero espectacular:
+  - Incluye un hero llamativo y moderno con un mensaje impactante. “Creaciones de un Agente experto de OpenAI”
+
+Crea una estructura sencilla con los siguientes elementos:
+
+Una sección con texto explicativo sobre:
+
+Qué son los agentes de OpenAI.
+
+Cómo funcionan.
+
+Qué tipo de tareas pueden realizar (ej: programar, automatizar publicaciones, generar imágenes, interactuar con APIs, etc).
+
+Una imagen o varias decorativa generada con IA que represente un cerebro humano fusionado con circuitos y elementos mecánicos, reflejando la idea de "IA integrada con mente humana". (Parecido al adjunto o usando el adjunto)
+
+3. Generación del contenido visual
+Genera (o descarga si tienes acceso) una imagen relevante como:
+
+“Human brain with circuits and AI components, half organic, half mechanical – hyperrealistic style”
+
+Guarda la imagen en la carpeta del proyecto como brain_ai.jpg e inclúyela en la web.
+
+4. 🧾 Publicación
+Una vez completada la web:
+
+Añade los archivos al repositorio local.
+
+Realiza un commit con el mensaje: "Primera versión de la web generada por un Agente de OpenAI".
+
+Haz push al repositorio en GitHub.
